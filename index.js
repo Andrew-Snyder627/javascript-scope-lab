@@ -6,8 +6,6 @@ function addBurger() {
   const newBurger = "Flatburger";
 
   burgers.push(newBurger);
-
-  
 }
 
 if(true) {
